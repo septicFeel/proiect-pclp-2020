@@ -1,0 +1,10 @@
+BMW	Seria3	2.0 Diesel	1700	5000	33
+Audi	A4	3.0 Diesel	1200	4300	20
+Skoda	Octavia	4.0 Diesel	800	1000	10
+Opel	Astra	1.7 Diesel	770	1500	25
+Mazda	Mazda3	2.0 Benzina	590	980	17
+Mercedes-Benz	Clasa-C 2.2 Diesel	2100	7260	37
+Nissan	Qashqai	1.5 Diesel	1460	3020	26
+Ford	Focus	1.6 Benzina	1300	1467	16
+Renault	Megane	1.5 Diesel	1000	990	13
+Dacia	Logan	0.9 Benzina	420	500	19
